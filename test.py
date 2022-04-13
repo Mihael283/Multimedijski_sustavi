@@ -4,9 +4,9 @@ import numpy as np
 import argparse
 import cv2
 
-matrix = np.array([ [93, 124, 31, 220], 
-                    [64, 22, 129, 200], 
-                    [142, 54, 156, 21], 
+matrix = np.array([ [69, 124, 136, 220], 
+                    [64, 112, 198, 200], 
+                    [26, 89, 156, 21], 
                     [36, 78, 241, 180]
                   ])
 
